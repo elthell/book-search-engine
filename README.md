@@ -14,11 +14,11 @@ Preview:
 
 ![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./client/public/21-mern-homework-demo-01.gif)
 
-Live link [here]()
+Live link [here](https://secure-cliffs-79020-5f3afea193e7.herokuapp.com/)
 
 ## Credits
 
-
+N/A
 
 ## License
 
