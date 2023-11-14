@@ -12,7 +12,7 @@ N/A
 
 Preview:
 
-![]()
+![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./client/public/21-mern-homework-demo-01.gif)
 
 Live link [here]()
 
